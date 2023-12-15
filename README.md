@@ -1,5 +1,7 @@
 # Cocktail Mixer App
 
+https://my-drink-list.vercel.app/
+
 The Cocktail Mixer App is a web application that helps users discover cocktails based on their preferred ingredients or by randomly suggesting a cocktail. Users can input two ingredients to find a list of cocktails that include those ingredients, or they can opt to receive a random cocktail recommendation.
 
 ## Features
